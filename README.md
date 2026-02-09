@@ -1,9 +1,23 @@
 # Video-Game-Sales-Tableau
 Tableau analysis of global video game sales using Kaggle dataset
 
-## Dataset
-Source: Kaggle – Video Game Sales Dataset  
-Link: https://www.kaggle.com/datasets/gregorut/videogamesales  
+## Datasets
 
-The dataset contains global video game sales data for games that sold more than 100,000 copies worldwide, including regional sales breakdowns.
+This project uses the following public datasets:
+
+### 1. Video Game Sales Dataset
+- **Source:** Kaggle  
+- **Title:** Video Game Sales  
+- **Author:** Gregor Ulm  
+- **Link:** https://www.kaggle.com/datasets/gregorut/videogamesales  
+- **File used:** `vgsales.csv`  
+- **Description:** Contains global sales data for video games that have sold more than 100,000 copies worldwide, with regional breakdowns (North America, Europe, Japan, Other) and metadata such as platform, genre, and publisher.
+
+### 2. Starbucks Store Locations Dataset
+- **Source:** Kaggle  
+- **Title:** Starbucks Store Locations  
+- **Link:** https://www.kaggle.com/datasets/starbucks/store-locations  
+- **File used:** `directory.csv`  
+- **Description:** Contains global locations of Starbucks stores, including geographic coordinates, store IDs, country, state, and store type.
+
 
