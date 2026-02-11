@@ -1,4 +1,6 @@
-##📌 Overview
+
+## Overview
+
 This project analyzes Video Game Sales and Starbucks Store Locations datasets using Tableau to uncover global market trends and business insights.
 
 ## Datasets
