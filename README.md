@@ -2,6 +2,9 @@
 ## Overview
 
 This project analyzes Video Game Sales and Starbucks Store Locations datasets using Tableau to uncover global market trends and business insights.
+This dashboard analyzes global and regional video game sales trends by genre and year.
+![vedio-games-sales-analysis-dashboard](https://github.com/user-attachments/assets/e9a1c1f3-6cc4-4a17-8300-ecb98a9f7e08)
+
 
 ## Datasets
 
