@@ -1,4 +1,4 @@
-📌 Overview
+##📌 Overview
 This project analyzes Video Game Sales and Starbucks Store Locations datasets using Tableau to uncover global market trends and business insights.
 
 ## Datasets
@@ -20,9 +20,9 @@ This project uses the following public datasets:
 - **File used:** `directory.csv`  
 - **Description:** Contains global locations of Starbucks stores, including geographic coordinates, store IDs, country, state, and store type.
 
-🛠 Tools Used
-Tableau Public
-CSV Data Files
-Data Cleaning & Visualization
+## 🛠 Tools Used
+- **Platform:** Tableau Public
+- **file format:** CSV Data Files
+- **methods used:** Data Cleaning & Visualization
 
 
