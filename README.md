@@ -1,5 +1,5 @@
-# Video-Game-Sales-Tableau
-Tableau analysis of global video game sales using Kaggle dataset
+📌 Overview
+This project analyzes Video Game Sales and Starbucks Store Locations datasets using Tableau to uncover global market trends and business insights.
 
 ## Datasets
 
@@ -19,5 +19,10 @@ This project uses the following public datasets:
 - **Link:** https://www.kaggle.com/datasets/starbucks/store-locations  
 - **File used:** `directory.csv`  
 - **Description:** Contains global locations of Starbucks stores, including geographic coordinates, store IDs, country, state, and store type.
+
+🛠 Tools Used
+Tableau Public
+CSV Data Files
+Data Cleaning & Visualization
 
 
